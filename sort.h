@@ -1,6 +1,8 @@
 #ifndef SORTING_ALGO_H
 #define SORTING_ALGO_H
 
+#include <stddef.h>
+
 /**
  * struct listint_s - Doubly linked list node
  *
